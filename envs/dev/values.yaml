@@ -5,5 +5,5 @@ spec:
     repoURL: https://github.com/kjki/eks-blueprints-workloads
     targetRevision: main
   ingress:
-#    host: dev.example.com
-    host: k8s-riker-c64bab81ac-1673966428.ap-northeast-2.elb.amazonaws.com
+    host: dev.example.com
+
