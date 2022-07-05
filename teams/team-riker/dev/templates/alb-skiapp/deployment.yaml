@@ -24,4 +24,4 @@ spec:
             cpu: "250m"
           limits:
             memory: "128Mi"
-            cup: "1"
+            cpu: "1"
